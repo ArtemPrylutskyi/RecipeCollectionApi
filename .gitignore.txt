@@ -31,6 +31,6 @@ Solution-Generated/
 *.DotSettings.user
 *.sln.startup.options
 
-# SQLite databases (ми додамо це, щоб не зберігати нашу recipes.db)
+# SQLite databases 
 *.db
 *.db-journal
