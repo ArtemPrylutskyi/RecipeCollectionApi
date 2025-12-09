@@ -9,7 +9,7 @@
 
      
         public int CategoryId { get; set; } 
-        public Category Category { get; set; } 
+        public Category? Category { get; set; } 
 
         public List<RecipeIngredient> RecipeIngredients { get; set; } = new();
     }
